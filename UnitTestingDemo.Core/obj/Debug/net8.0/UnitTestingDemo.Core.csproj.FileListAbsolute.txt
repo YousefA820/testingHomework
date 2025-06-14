@@ -1,0 +1,11 @@
+C:\Users\XPRISTO\Desktop\UnitTestingDemo\UnitTestingDemo.Core\bin\Debug\net8.0\UnitTestingDemo.Core.deps.json
+C:\Users\XPRISTO\Desktop\UnitTestingDemo\UnitTestingDemo.Core\bin\Debug\net8.0\UnitTestingDemo.Core.dll
+C:\Users\XPRISTO\Desktop\UnitTestingDemo\UnitTestingDemo.Core\bin\Debug\net8.0\UnitTestingDemo.Core.pdb
+C:\Users\XPRISTO\Desktop\UnitTestingDemo\UnitTestingDemo.Core\obj\Debug\net8.0\UnitTestingDemo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XPRISTO\Desktop\UnitTestingDemo\UnitTestingDemo.Core\obj\Debug\net8.0\UnitTestingDemo.Core.AssemblyInfoInputs.cache
+C:\Users\XPRISTO\Desktop\UnitTestingDemo\UnitTestingDemo.Core\obj\Debug\net8.0\UnitTestingDemo.Core.AssemblyInfo.cs
+C:\Users\XPRISTO\Desktop\UnitTestingDemo\UnitTestingDemo.Core\obj\Debug\net8.0\UnitTestingDemo.Core.csproj.CoreCompileInputs.cache
+C:\Users\XPRISTO\Desktop\UnitTestingDemo\UnitTestingDemo.Core\obj\Debug\net8.0\UnitTestingDemo.Core.dll
+C:\Users\XPRISTO\Desktop\UnitTestingDemo\UnitTestingDemo.Core\obj\Debug\net8.0\refint\UnitTestingDemo.Core.dll
+C:\Users\XPRISTO\Desktop\UnitTestingDemo\UnitTestingDemo.Core\obj\Debug\net8.0\UnitTestingDemo.Core.pdb
+C:\Users\XPRISTO\Desktop\UnitTestingDemo\UnitTestingDemo.Core\obj\Debug\net8.0\ref\UnitTestingDemo.Core.dll
